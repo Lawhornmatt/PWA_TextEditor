@@ -32,6 +32,8 @@ Open the app in browser. Click the ```Install!``` button to download to desktop.
 
 ## USAGE INFO:
 
+Visit the app [here](https://lawhorn-jate-editor.herokuapp.com/)
+
 Type into the text editor and your progress will automatically be backed up to the database.
 
 ## CONTRIBUTION GUIDELINES:
